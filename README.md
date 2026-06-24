@@ -85,7 +85,7 @@
 
 | ช่องทาง | ข้อมูล |
 |--------|--------|
-| 📧 Email | [your.email@gmail.com](jesstadachaiy@gmail.com) |
+| 📧 Email | (jesstadachaiy@gmail.com) |
 | 💚 Line ID | `[Line ID ของคุณ]` |
 | 📘 Facebook | [ชื่อบน Facebook](https://facebook.com/ใส่ชื่อผู้ใช้ของคุณ) |
 
