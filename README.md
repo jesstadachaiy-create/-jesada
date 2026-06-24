@@ -43,7 +43,6 @@
 
 - 🟧 **HTML** — โครงสร้างหน้าเว็บ
 - 🎨 **CSS** — ตกแต่งหน้าเว็บ
-- 🟨 **JavaScript** — เพิ่มความสามารถให้เว็บ
 - 🐘 **PHP** — เขียนโปรแกรมฝั่ง Server
 - 🗄️ **SQL** — จัดการฐานข้อมูล
 
@@ -86,10 +85,9 @@
 
 | ช่องทาง | ข้อมูล |
 |--------|--------|
-| 📧 Email | [your.email@gmail.com](mailto:your.email@gmail.com) |
+| 📧 Email | [your.email@gmail.com](jesstadachaiy@gmail.com) |
 | 💚 Line ID | `[Line ID ของคุณ]` |
 | 📘 Facebook | [ชื่อบน Facebook](https://facebook.com/ใส่ชื่อผู้ใช้ของคุณ) |
-| 📸 Instagram | [@ชื่อผู้ใช้](https://instagram.com/ใส่ชื่อผู้ใช้ของคุณ) |
 
 ---
 
